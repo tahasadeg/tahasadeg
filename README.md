@@ -16,7 +16,7 @@ Aside from development, I've had considerable experience in sales and project ma
 My journey has been diverse and enriching, and I'm constantly seeking new challenges and opportunities to learn and grow as a developer and IT professional. I'm excited to contribute to the world of technology and make a positive impact.
 
 📧 Contact:
-Feel free to reach out to me at t.sadeg@is.com.ly // t.sadeg@csc.gov.ly for collaborations or discussions.
+Feel free to reach out to me at t.sadeg@is.com.ly // t.sadeg@oasis.ly for collaborations or discussions.
 
 <!---
 tahasadeg/tahasadeg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
