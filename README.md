@@ -1,24 +1,26 @@
-👨‍💻 Taha Sadeg | Libyan Developer & IT Enthusiast
+Taha Alsadiq
 
-🌟 About Me:
-I'm Taha Sadeg, a passionate Libyan student and developer, currently on a journey with Individual Solutions, an IT company offering a range of services. My interest in technology started at a young age and has only grown stronger since then.
+Software Department Manager at Individual Solutions · Co-founder of Oasis Tech · Tripoli, Libya
 
-💼 Experience:
-At Individual Solutions, I started as a customer service agent, but my enthusiasm and quick learning led me to become a system administrator within just one week. Since then, I've been involved in various aspects of the company's business, particularly in sales and project management. Engaging in these areas has not only honed my public speaking and critical thinking skills but has also broadened my perspective.
+I build software that brings scattered back-end systems onto one screen for the person serving the customer: contact centre agents, bank staff, travel agents and merchants.
 
-🚀 Journey into Development:
-My journey into development began with CMS-based web development, where I built several websites for clients using platforms like WordPress. Interestingly, working with Individual Solutions exposed me to UI/UX design. They entrusted me with the task of designing their own website initially to encourage me to start learning UI/UX. Eventually, they liked my design enough to implement it, which marked the beginning of my CMS journey. Seeking more depth, I delved into PHP web apps, taking courses and completing my first solo PHP project recently, using PURE PHP for the backend and HTML/CSS for the frontend. I've also gained experience in hosting with Enginx and FastCGI, as well as in virtualization with VMware.
+I started at Individual Solutions six years ago as a customer service agent, moved into system administration and Zoho implementation, and now run the company's software department. In 2025 I co-founded Oasis Tech, where we build travel-booking and merchant software for clients in Libya, Indonesia and China.
 
-📈 Sales & Project Management:
-Aside from development, I've had considerable experience in sales and project management. Notably, I closed a deal with the largest ISP in Libya and single-handedly implemented a ticketing system for them. I've also showcased our services at the Libyan IT Expo and successfully sold our solutions multiple times.
+Selected work
+Unified caller history: one system that gathers a caller's records from many separate systems as the call arrives, so the agent sees the full history before answering. The system I manage now holds more than a million tickets.
+Core-banking middleware: an integration layer between a bank's core banking system and its contact centre, so agents can see who is calling and whether they are already a customer.
+Multi-supplier travel booking: one search across up to six airline systems for travel agencies, plus a customer website and mobile app for online sales.
+omos.ly: a merchant operating system for small businesses. Merchants sell through social media, WhatsApp and a ready-made online store, with local payments and automatic delivery dispatch.
 
-🔍 Looking Ahead:
-My journey has been diverse and enriching, and I'm constantly seeking new challenges and opportunities to learn and grow as a developer and IT professional. I'm excited to contribute to the world of technology and make a positive impact.
+Most of this work is private client code, so it isn't public here.
 
-📧 Contact:
-Feel free to reach out to me at t.sadeg@is.com.ly // t.sadeg@oasis.ly for collaborations or discussions.
+Stack
 
-<!---
-tahasadeg/tahasadeg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Back end: PHP (Laravel), Python (Django REST Framework), PostgreSQL, APIs and middleware
+Front end: React
+Infrastructure: Linux, deployment, DevOps
+Platforms: Zoho One, Odoo, contact centre and telephony integration
+
+Contact
+
+t.sadeg@oasis.ly · oasis.ly · t.sadeg@is.com.ly
